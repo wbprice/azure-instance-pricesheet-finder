@@ -1,0 +1,28 @@
+{
+  "name": "azure-instance-pricesheet-finder",
+  "version": "0.1.0",
+  "description": "A tool that generates a price sheet that determines how expensive various Azure instances are in a specific region.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbprice/azure-instance-pricesheet-finder.git"
+  },
+  "keywords": [
+    "csv"
+  ],
+  "author": "Blaine Price",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wbprice/azure-instance-pricesheet-finder/issues"
+  },
+  "homepage": "https://github.com/wbprice/azure-instance-pricesheet-finder#readme",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "joi": "^11.0.2",
+    "minimist": "^1.2.0",
+    "wreck": "^13.0.1"
+  }
+}
