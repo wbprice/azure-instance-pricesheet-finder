@@ -10,3 +10,4 @@ aipf
     --currency {currency}
     --locale {locale}
     --region-info {region-info}
+

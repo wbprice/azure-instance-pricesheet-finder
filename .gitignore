@@ -1,1 +1,4 @@
 node_modules
+.env-vars
+output.json
+sample.json
