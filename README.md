@@ -32,6 +32,7 @@ node index.js
 Results in:
 
 ```
+// output.csv
 HourlyRate,InstanceType
 0.02,A0 VM
 0.4,std.d4v2promo
